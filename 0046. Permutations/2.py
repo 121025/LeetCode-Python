@@ -1,3 +1,5 @@
+#61ms
+
 import itertools
 
 class Solution:
