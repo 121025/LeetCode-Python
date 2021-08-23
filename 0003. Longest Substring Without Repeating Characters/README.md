@@ -21,5 +21,5 @@ Example 4:
 Output: 0
 
 Constraints:
-- 0 <= s.length <= 5 * 104
+- 0 <= s.length <= 5 * 10<sup>4</sup>
 - s consists of English letters, digits, symbols and spaces.
